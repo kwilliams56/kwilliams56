@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kravion Williams
 
-<!--
-**kwilliams56/kwilliams56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Alabama passionate about software development and problem-solving.
 
-Here are some ideas to get you started:
+## Skills
+- C
+- C++
+- SQL
+- MongoDB
+- MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Wumpus Hunt Game
+- Solitaire Poker Game
+- Red-Black Tree
+- Movie Actor Database
+- Word Frequency Analyzer
+
+## Currently
+- Seeking Software Engineering and Technology Internships
+- Expanding my software development skills through academic and personal projects
+
+📫 LinkedIn: https://www.linkedin.com/in/kravion-williams-b0359737a
